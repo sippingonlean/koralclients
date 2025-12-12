@@ -8,4 +8,3 @@ close it and save it to the roblox xml format (rbxlx)
 open it up in our 2016, Koral studio client
 run the contents of colorfix2016side.lua
 save to rbxl
-
